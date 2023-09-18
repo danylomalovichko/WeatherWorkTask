@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A4D12AE3-05ED-4122-AAC2-6A014EF8574B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D410A228-B979-4935-9DF5-21F2BEA70BEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherWorkTask/ViewModel-View/Map/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "tapHandler(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D410A228-B979-4935-9DF5-21F2BEA70BEC - 5d87c0d82229e964"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherWorkTask.MapView.Coordinator.gestureRecognizer(_: __C.UIGestureRecognizer, shouldReceive: __C.UITouch) -&gt; Swift.Bool"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Map/MapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "D410A228-B979-4935-9DF5-21F2BEA70BEC - 8ac7790b7a9bd7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherWorkTask.MapView.Coordinator.tapHandler(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Map/MapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5530266F-7E58-41F1-9334-EFFB66B211D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherWorkTask/Model/Services/Geolocator/GeolocatorService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "setPlaceOnAddress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D3ACBE4-91B0-41C0-A72F-5A095DEB64F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchForecast(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D3ACBE4-91B0-41C0-A72F-5A095DEB64F7 - 9e124f6924e4762a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;) -&gt; () in WeatherWorkTask.HomeVM.fetchForecast(location: WeatherWorkTask.Location) -&gt; ()"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1924">
+               </Location>
+               <Location
+                  uuid = "3D3ACBE4-91B0-41C0-A72F-5A095DEB64F7 - 9e124f6924e4762a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;) -&gt; () in WeatherWorkTask.HomeVM.fetchForecast(location: WeatherWorkTask.Location) -&gt; ()"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1564">
+               </Location>
+               <Location
+                  uuid = "3D3ACBE4-91B0-41C0-A72F-5A095DEB64F7 - 9e124f6924e474bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;) -&gt; () in WeatherWorkTask.HomeVM.fetchForecast(location: WeatherWorkTask.Location) -&gt; ()"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1536">
+               </Location>
+               <Location
+                  uuid = "3D3ACBE4-91B0-41C0-A72F-5A095DEB64F7 - 9e124f6924e474bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;) -&gt; () in WeatherWorkTask.HomeVM.fetchForecast(location: WeatherWorkTask.Location) -&gt; ()"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "1692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFB91CC6-D5A2-4F1F-8DBF-EC9899016E48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "fetchForecast(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFB91CC6-D5A2-4F1F-8DBF-EC9899016E48 - 9e124f6924e475fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;) -&gt; () in WeatherWorkTask.HomeVM.fetchForecast(location: WeatherWorkTask.Location) -&gt; ()"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "CFB91CC6-D5A2-4F1F-8DBF-EC9899016E48 - 9e124f6924e475fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;) -&gt; () in WeatherWorkTask.HomeVM.fetchForecast(location: WeatherWorkTask.Location) -&gt; ()"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/ViewModel-View/Home/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "628">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3076F490-593E-4E70-8EBF-4AFE5C7DA9B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherWorkTask/Model/Services/Network/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchForecast(location:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3076F490-593E-4E70-8EBF-4AFE5C7DA9B8 - d0c29ec249c11283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.AFError) -&gt; WeatherWorkTask.NetworkError in closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, Alamofire.AFError&gt;) -&gt; Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt; in WeatherWorkTask.NetworkManager.fetchForecast(location: WeatherWorkTask.Location) -&gt; Combine.AnyPublisher&lt;Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;, Swift.Never&gt;"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/Model/Services/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "3076F490-593E-4E70-8EBF-4AFE5C7DA9B8 - d0c29ec249c11283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.AFError) -&gt; WeatherWorkTask.NetworkError in closure #1 (Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, Alamofire.AFError&gt;) -&gt; Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt; in WeatherWorkTask.NetworkManager.fetchForecast(location: WeatherWorkTask.Location) -&gt; Combine.AnyPublisher&lt;Alamofire.DataResponse&lt;WeatherWorkTask.ForecastResult, WeatherWorkTask.NetworkError&gt;, Swift.Never&gt;"
+                  moduleName = "WeatherWorkTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olegmalovichko/Desktop/WeatherWorkTask/WeatherWorkTask/Model/Services/Network/NetworkService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
