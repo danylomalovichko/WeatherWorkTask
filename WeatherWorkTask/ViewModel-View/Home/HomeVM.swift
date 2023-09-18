@@ -13,7 +13,7 @@ class HomeVM: BaseVM {
     private let geolocator: GeolocatorService
     
     @Published var timelines: Timelines?
-    @Published var forecasMinutelytLast: Minutely?
+    @Published var forecastMinutelytLast: Minutely?
     
     @Published var selectedPlace: Place?
     
@@ -29,7 +29,7 @@ class HomeVM: BaseVM {
         
         $timelines
             .sink { items in
-                self.forecasMinutelytLast = items?.minutely.last
+                self.forecastMinutelytLast = items?.minutely.last
             }
             .store(in: &bag)
         
