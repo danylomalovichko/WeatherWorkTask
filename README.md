@@ -1,6 +1,6 @@
 # WeatherWorkTask
 
-Barebones app that fetches data from NYTimes API.
+Barebones app that fetches data from API.
 
 ## Requirements
 
